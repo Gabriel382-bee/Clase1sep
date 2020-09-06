@@ -1,0 +1,9 @@
+git init  
+
+git add README.md
+git commit -m "dos lineas de codigo" 
+
+
+git branch -M master 
+git remote add origin https://github.com/Gabriel382-bee/Clase1sep.git
+git push -u origin master 
